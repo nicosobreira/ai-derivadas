@@ -28,7 +28,9 @@ Qual é a nota mais provável que o aluno vai tirar?
 ### Matemática
 
 - [ ] Terminal o capítulo 4 do Cálculo Vol. 1 do Stewart
-- [ ] [Equações Diferenciais](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=BNe4jB2amJdjMYtM) principalmente "Mas oque é a equação da derivada parcial? | DE2"
+- [ ] [Equações Diferenciais](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=BNe4jB2amJdjMYtM) principalmente o segundo episódio "Mas oque é a equação da derivada parcial?"
+    1. Definição e Cálculo de Derivadas Parciais
+    2. O Vetor Gradiente
 
 ### Conectar matemática com IA
 
