@@ -32,3 +32,4 @@ Qual é a nota mais provável que o aluno vai tirar?
 ### Conectar matemática com IA
 
 - [ ] [Série do Felipe Deschamps](https://youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&si=AYWPrDhyP4I11hqe)
+
