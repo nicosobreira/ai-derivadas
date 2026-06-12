@@ -18,21 +18,13 @@ Número de horas estudas de um aluno X.
 
 Qual é a nota mais provável que o aluno vai tirar?
 
-## Por onde começar?
+## Principais Materiais
 
-### Intuição
+Eles estão **na ordem em que devem ser vistos**.
 
-- [ ] [Essência do Cálculo](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=ycxQqoW6UE8lvTTE) principalmente "O que é uma derivada" e "Máximos e mínimos"
-- [ ] [Redes Neurais](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=ThQGrRp4fH1rIf_k) principalmente os capítulos 2 e 3, que explicam o que é o **Gradiente Descendente**.
-
-### Matemática
-
-- [ ] Terminal o capítulo 4 do Cálculo Vol. 1 do Stewart
-- [ ] [Equações Diferenciais](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=BNe4jB2amJdjMYtM) principalmente o segundo episódio "Mas oque é a equação da derivada parcial?"
-    1. Definição e Cálculo de Derivadas Parciais
-    2. O Vetor Gradiente
-
-### Conectar matemática com IA
-
-- [ ] [Série do Felipe Deschamps](https://youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&si=AYWPrDhyP4I11hqe)
+- Terminar o capítulo 4 do Cálculo Vol. 1 do Stewart
+- [Essência do Cálculo](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=ycxQqoW6UE8lvTTE) principalmente "O que é uma derivada" e "Máximos e mínimos"
+- [Série do Felipe Deschamps](https://youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-&si=AYWPrDhyP4I11hqe)
+- Começo do Cálculo Vol. 2 do Stewart para aprender **Derivadas Parciais** e **Vetor Gradiente**
+- [Redes Neurais](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=ThQGrRp4fH1rIf_k) principalmente os capítulos 2 e 3, que explicam o que é o **Gradiente Descendente**.
 
